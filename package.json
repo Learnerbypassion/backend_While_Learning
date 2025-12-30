@@ -1,0 +1,12 @@
+{
+  "name": "backend_project",
+  "version": "1.0.0",
+  "description": "A project while learning basic to advance backend developement ",
+  "license": "ISC",
+  "author": "Soham Bhattacharya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
