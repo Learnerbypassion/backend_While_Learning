@@ -1,2 +1,7 @@
-console.log("HEllo, how are you");
-console.log("Hello");
+// require('dotenv').config({ path: './env'});
+import dotenv from 'dotenv';
+import dbConnect from "./db/index.db.js";
+dotenv.config({
+    path: './env'
+})
+dbConnect();
